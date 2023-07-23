@@ -4,6 +4,8 @@ local animationTime = 2
 local PLUGIN = PLUGIN
 PLUGIN.cameraFraction = 0
 
+print("hi")
+
 local function GetHeadBone(client)
 	local head
 
